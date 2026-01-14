@@ -1,0 +1,7 @@
+{
+  "Mexico": ["bank_transfer", "cash_pickup", "paypal"],
+  "Colombia": ["bank_transfer", "cash_pickup"],
+  "US": ["bank_transfer", "paypal"],
+  "Canada": ["bank_transfer"],
+  "Peru": ["bank_transfer", "cash_pickup"]
+}
