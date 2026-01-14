@@ -26,6 +26,7 @@ curl -s -X POST http://127.0.0.1:8000/apps/send_money_agent/users/u1/sessions \
   -H 'Content-Type: application/json' \
   -d '{"state":{"sender_phone":"+15551234567"}}'
 ```
+Copy the `id` from the response and use it as `<SESSION_ID>` below.
 
 Send a message:
 ```
